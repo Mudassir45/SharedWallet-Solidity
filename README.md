@@ -1,4 +1,3 @@
-# SharedWallet-Solidity
 ## Shared Wallet with Allowance Function
 
 ### Real-World Use-Case for this Project
